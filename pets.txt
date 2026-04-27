@@ -1,0 +1,9 @@
+goldfish
+dog
+cat
+parrot
+dog
+goldfish
+goldfish
+
+This file is fore executing pipelines(pipes)
