@@ -18,7 +18,7 @@ make
 If compiling manually:
 
 ```bash
-gcc -o shell src/*.c -Iinclude
+gcc -o shell src/*.c -include
 ./shell
 ```
 
